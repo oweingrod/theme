@@ -83,6 +83,10 @@ html {
   font-size: 3.25rem;
 }
 
+.sidebar-about h1:hover{
+  color: yellow;
+}
+
 /* Sidebar nav */
 .sidebar-nav {
   padding-left: 0;
